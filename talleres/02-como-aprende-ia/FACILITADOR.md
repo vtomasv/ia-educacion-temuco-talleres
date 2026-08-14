@@ -1,6 +1,6 @@
 # Facilitador — Módulo 2
 
-Entregue tres secuencias: “En Temuco llueve y el patio…”, “La directora revisó el acta y…”, “El equipo necesita verificar…”. Pida cuatro continuaciones posibles por grupo. Pregunte: “¿Cuál parece más probable? ¿Cuál sería verdadera?”.
+Entregue tres secuencias: “Después de la lluvia, el patio…”, “La directora revisó el acta y…”, “El equipo necesita verificar…”. Pida cuatro continuaciones posibles por grupo. Pregunte: “¿Cuál parece más probable? ¿Cuál sería verdadera?”.
 
 Muestre la palabra “banco” en dos frases: “El banco del patio está mojado” y “El banco aprobó el proyecto”. Pida que marquen qué cambia. Conecte: el contexto modifica las continuaciones plausibles.
 

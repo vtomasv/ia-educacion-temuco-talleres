@@ -10,7 +10,7 @@ El modelo cita “Circular Mineduc 17/2026: IA y calificaciones”. No existe en
 
 ## Caso C — persona ficticia
 
-La respuesta atribuye una recomendación a “Dra. Elena Cifuentes, investigadora de Temuco”. La persona es ficticia. Clasificación esperada: rojo; verificación de identidad y fuente.
+La respuesta atribuye una recomendación a “Dra. Elena Cifuentes, investigadora regional”. La persona es ficticia. Clasificación esperada: rojo; verificación de identidad y fuente.
 
 ## Caso D — pregunta ambigua
 
