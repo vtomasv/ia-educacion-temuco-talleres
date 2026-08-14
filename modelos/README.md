@@ -4,7 +4,7 @@
 
 Un modelo local es una IA que funciona directamente dentro de tu computador, después de descargar el programa y los archivos del modelo. El prompt y la respuesta pueden permanecer en el dispositivo, pero la privacidad no se vuelve automática: hay que controlar carpetas, registros, permisos, copias y actualizaciones.
 
-## Selección para la jornada
+## Selección para el kit
 
 | Rol | Modelo | RAM orientativa | Estado |
 | --- | --- | ---: | --- |
@@ -13,7 +13,7 @@ Un modelo local es una IA que funciona directamente dentro de tu computador, des
 | Mayor calidad | Qwen3 4B o Gemma 3 4B, cuantizado | 16–32 GB | Estimación y no central |
 | Contraste | Llama 3.2 3B Instruct | 16 GB | Informado por desarrollador; revisar licencia |
 
-Qwen3 declara 119 lenguas y dialectos, incluido español, y Apache 2.0 para sus modelos densos; esto no prueba calidad específica en español chileno. Gemma 3 declara más de 140 lenguas y multimodalidad, con términos de licencia propios. Llama 3.2 declara variantes de texto pequeñas y uso local. Consulte las tarjetas oficiales antes de redistribuir pesos.
+Qwen3 declara soporte multilingüe y una licencia Apache 2.0 para sus modelos densos; esto no prueba calidad específica en español chileno. Gemma 3 declara múltiples lenguas y multimodalidad, con términos propios. Llama 3.2 declara variantes pequeñas y uso local. Consulte las tarjetas oficiales antes de redistribuir pesos.
 
 ## Flujo LM Studio
 

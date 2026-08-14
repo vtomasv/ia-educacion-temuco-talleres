@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-echo "Este script comprueba el equipo. Instale LM Studio AppImage desde https://lmstudio.ai/ antes de la jornada."
+echo "Este script comprueba el equipo. Instale LM Studio AppImage desde https://lmstudio.ai/ antes de facilitar."
 grep MemTotal /proc/meminfo || true
 uname -a
 df -h "$HOME" | tail -n 1

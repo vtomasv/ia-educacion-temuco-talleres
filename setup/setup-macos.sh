@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-echo "Este script solo comprueba el equipo. Instale LM Studio desde https://lmstudio.ai/ antes de la jornada."
+echo "Este script solo comprueba el equipo. Instale LM Studio desde https://lmstudio.ai/ antes de facilitar."
 sysctl -n hw.memsize 2>/dev/null || true
 sw_vers || true
 df -h "$HOME" | tail -n 1

@@ -1,6 +1,6 @@
-# Pretest — 09:00
+# Diagnóstico inicial
 
-Responda sin buscar. Marque una alternativa y anote una razón breve.
+Responda antes de comenzar la ruta elegida. Marque una alternativa y anote una razón breve.
 
 1. Una respuesta muy probable de un modelo es necesariamente verdadera. ( ) Sí ( ) No
 2. ¿Qué debería hacerse antes de usar una salida sobre un establecimiento? ( ) Compartirla ( ) Verificarla ( ) Copiarla
@@ -9,7 +9,7 @@ Responda sin buscar. Marque una alternativa y anote una razón breve.
 5. Un modelo local significa: ( ) Una app sin errores ( ) Un modelo que se ejecuta en el equipo ( ) Un modelo infalible
 6. Para adaptar instrucciones, la responsabilidad del objetivo pedagógico es de: ( ) La IA ( ) El profesional ( ) Nadie
 7. Si un documento contiene información confidencial, la primera acción es: ( ) Subirlo ( ) Minimizar, anonimizar y revisar autorización ( ) Publicarlo
-8. ¿Qué indicador permite evaluar un piloto? ( ) “Nos gustó” ( ) Evidencia definida y revisión humana ( ) Cantidad de prompts
+8. ¿Qué indicador permite evaluar una prueba? ( ) “Nos gustó” ( ) Evidencia definida y revisión humana ( ) Cantidad de prompts
 
 ## Clave
 

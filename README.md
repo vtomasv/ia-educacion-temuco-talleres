@@ -1,24 +1,20 @@
-# IA aplicada a educación — Talleres Temuco
+# IA aplicada a educación — Kit modular reutilizable
 
-Kit abierto y replicable para la jornada del martes 18 de agosto, orientado a directoras y directores, equipos técnicos, profesionales de educación y docentes del sistema municipal de Temuco. El propósito es fortalecer liderazgo educativo, gestión institucional y trabajo colaborativo mediante un uso estratégico, crítico, responsable y práctico de la inteligencia artificial.
+Este repositorio abierto reúne experiencias de aprendizaje para equipos directivos, equipos técnicos, profesionales de educación y docentes que desean usar IA de forma estratégica, crítica, responsable y práctica. Puede facilitarse como secuencia completa o seleccionarse por módulos según el propósito, el tiempo disponible y el nivel de experiencia del grupo.
 
 ## Qué contiene
 
-El repositorio reúne siete talleres autocontenidos, guías para facilitación y participantes, datasets ficticios, prompts reutilizables, rúbricas, benchmark práctico de modelos locales, instalación multiplataforma, protocolo de privacidad, kit offline y un sitio web estático de apoyo.
+El kit incluye siete módulos autocontenidos, guías para facilitación y participantes, datasets ficticios, prompts reutilizables, rúbricas, benchmark práctico de modelos locales, instalación multiplataforma, protocolo de privacidad, materiales offline y un sitio web estático de apoyo.
 
 ## Cómo utilizarlo
 
-Para ejecutar la jornada completa, comience por [docs/plan-maestro.md](docs/plan-maestro.md), revise [facilitador/GUIA-GLOBAL.md](facilitador/GUIA-GLOBAL.md) y complete la preparación descrita en [setup/README.md](setup/README.md) al menos 48 horas antes. Cada carpeta dentro de `talleres/` contiene `README.md`, `FACILITADOR.md`, `PARTICIPANTE.md`, `MATERIALES.md` y `PLAN-B.md`.
+Comience por [docs/plan-maestro.md](docs/plan-maestro.md), revise [facilitador/GUIA-GLOBAL.md](facilitador/GUIA-GLOBAL.md) y complete la preparación descrita en [setup/README.md](setup/README.md) antes de facilitar. Cada carpeta dentro de `talleres/` contiene `README.md`, `FACILITADOR.md`, `PARTICIPANTE.md`, `MATERIALES.md` y `PLAN-B.md`.
 
 La participación no exige programar. La experiencia local se prepara previamente en un equipo facilitador; si la instalación falla, la secuencia mantiene su objetivo con tarjetas, respuestas de ejemplo y fichas impresas.
 
-## Abrir el sitio
-
-El sitio fuente se encuentra en `site/`. Puede abrirse como HTML estático desde un servidor local o desplegarse mediante el workflow de GitHub Pages en `.github/workflows/deploy.yml`. La versión de apoyo desarrollada en Manus se mantiene en el proyecto web asociado y puede exportarse al contenido de `site/` cuando se publique una revisión.
-
 ## Privacidad
 
-**Durante este taller no utilizaremos información personal ni sensible de estudiantes, familias o funcionarios.** Todos los archivos de práctica son ficticios. No pegue nombres, RUT, diagnósticos, calificaciones, informes PIE, fotografías, teléfonos, direcciones, credenciales ni documentos confidenciales en un modelo local o servicio web. La guía es educativa y no sustituye la revisión del sostenedor ni asesoría jurídica.
+**En este kit no se utiliza información personal ni sensible de estudiantes, familias o funcionarios.** Todos los archivos de práctica son ficticios. No pegue nombres, RUT, diagnósticos, calificaciones, informes PIE, fotografías, teléfonos, direcciones, credenciales ni documentos confidenciales en un modelo local o servicio web. La guía es educativa y no sustituye la revisión del sostenedor ni asesoría jurídica.
 
 ## Licencias
 
@@ -28,22 +24,20 @@ El código se distribuye bajo [MIT](LICENSE). Los materiales educativos original
 
 | Carpeta | Propósito |
 | --- | --- |
-| `docs/` | Plan maestro y arquitectura pedagógica |
-| `talleres/` | Siete experiencias autocontenidas |
-| `facilitador/` | Guía de preparación y conducción |
+| `docs/` | Plan maestro, glosario, matriz de herramientas y kit offline |
+| `talleres/` | Siete módulos autocontenidos y adaptables |
+| `facilitador/` | Preparación y conducción de módulos |
 | `participantes/` | Guía simplificada y fichas |
 | `materiales/` | Documentos, datasets, casos, prompts y respuestas |
 | `modelos/` | Selección, benchmark y guía local |
 | `setup/` | Preparación por sistema operativo |
-| `evaluacion/` | Pretest, postest y rúbricas |
+| `evaluacion/` | Diagnóstico inicial, cierre y rúbricas |
 | `privacidad/` | Checklist y reglas de no ingreso de datos |
 | `troubleshooting/` | Solución de problemas y planes de contingencia |
 | `site/` | Sitio estático portable |
 
 ## Estado de verificación
 
-La investigación tecnológica fue consultada el **14 de agosto de 2026**. Las capacidades de herramientas y modelos se distinguen entre “informado por desarrollador”, “probado por el facilitador” y “estimado”. El sandbox de producción tenía 3,8 GB de RAM y no pudo ejecutar el runtime local; por eso el benchmark queda listo para correr en un equipo facilitador con 8–16 GB, y no se inventan resultados de velocidad o calidad.
-
-## Referencias esenciales
+Las capacidades de herramientas y modelos deben revisarse antes de cada implementación. El benchmark local queda listo para completarse en el equipo facilitador; no se deben inventar resultados de velocidad o calidad.
 
 Las fuentes científicas, oficiales y técnicas completas están en [REFERENCIAS.md](REFERENCIAS.md).
